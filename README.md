@@ -12,6 +12,7 @@ My solutions to problems on SadServers.
 | 3 | ["Santiago": Find the secret combination](./03-Santiago/) |
 | 4 | ["The Command Line Murders"](./04-The-Command-Line-Murders/) |
 | 5 | ["Taipei": Come a-knocking](./05-Taipei/) |
+| 7 | ["Lhasa": Easy Math](./07-Lhasa/) |
 
 **Use the posted materials solely for self-testing.** <br>
 **All rights to the materials belong to the developers of the site https://sadservers.com/**
