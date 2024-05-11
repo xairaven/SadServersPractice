@@ -14,6 +14,7 @@ My solutions to problems on SadServers.
 | 5 | ["Taipei": Come a-knocking](./05-Taipei/) |
 | 7 | ["Lhasa": Easy Math](./07-Lhasa/) |
 | 8 | ["Bucharest": Connecting to Postgres](./08-Bucharest/) |
+| 10 | ["Apia": Needle in a Haystack](./10-Apia/) |
 
 **Use the posted materials solely for self-testing.** <br>
 **All rights to the materials belong to the developers of the site https://sadservers.com/**
